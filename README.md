@@ -1,2 +1,2 @@
-# Simple-linear-regression-Multiple-Regression-Regression-vs-correlation
+# lrvscr
 Simple linear regression , Multiple Regression ,Regression vs correlation
