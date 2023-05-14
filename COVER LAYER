@@ -1,0 +1,12 @@
+name = (input("Please enter your name:"))
+if name == 'Roscoe':
+    print('You are the owner')
+
+else:
+    print("Enter your age:")
+    age = int(input("Enter your age:"))
+    if age == 18:
+        print("You are valid for this")
+    else:
+      print("You are invalid person")
+    
